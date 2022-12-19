@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "sonarsource.sonarlint-vscode",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "donjayamanne.githistory"
+  ]
+}
