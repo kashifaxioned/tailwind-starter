@@ -7,7 +7,7 @@ export default function App({ Component }) {
 }
 
 App.propTypes = {
-  Component: PropTypes.element,
+  Component: PropTypes.func,
 };
 
 App.defaultProps = {
